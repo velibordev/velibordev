@@ -18,5 +18,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=velibordev&show_icons=true&locale=en&layout=compact" alt="velibordev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velibordev&" alt="velibordev" /></p>
-
-<img align="center" width="1000px" src="https://camo.githubusercontent.com/53b3b2c0ec1e1a50819166f48f115494a2fcd5a4438f2d14edf17d98a045fb6b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f76696d3454574b7759354d41414141642f646973636f72642d6861636b696e672e676966">
