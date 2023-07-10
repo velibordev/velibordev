@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Velibor</h1>
 <h3 align="center">A frontend developer from Bosnia</h3>
-<img align="right" width="400px" src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif">
+<img align="right" width="400px" src="https://cdn.winsightmedia.com/platform/files/public/2022-04/background/qr-codes.gif?VersionId=CCUgkHzUN3yBV5qsq1sF4rRh3rdaIz_f">
 
 - 🔭 I’m currently working on **JustAsk**
 
