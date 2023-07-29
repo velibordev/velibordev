@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer from Bosnia</h3>
 <img align="right" width="400px" src="https://cdn.winsightmedia.com/platform/files/public/2022-04/background/qr-codes.gif?VersionId=CCUgkHzUN3yBV5qsq1sF4rRh3rdaIz_f">
 
-- 🔭 I’m currently working on **JustAsk**
+- 🔭 I’m currently working on **Askify**
 
 - 🌱 I’m currently learning **Typescript**
 
